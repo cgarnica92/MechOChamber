@@ -1,3 +1,3 @@
-DROP DATABASE IF EXISTS mecho_chamber;
+DROP DATABASE IF EXISTS mecho_chamber_db;
 
-CREATE DATABASE mecho_chamber;
+CREATE DATABASE mecho_chamber_db;
